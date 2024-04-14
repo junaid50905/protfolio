@@ -1,0 +1,46 @@
+[{
+        "id": 1,
+        "name": "Baffasoft",
+        "image": "",
+        "description": "We are 4 developers who are making a software of BAFFA(Bangladesh Freight Forwarders Association). As a Software Developer at Aamra, My contributions spanned across the Leave Management System, Payroll Management System, Inventory Management System and Proﬁle features, ensuring seamless integration and robust functionality for the BAFFA.",
+        "tags": ["Laravel", "Vue.js", "MySQL", "Bootstrap", "RESTAPI"],
+        "source_code": "",
+        "demo": ""
+    },
+    {
+        "id": 2,
+        "name": "Service and Management System",
+        "image": "https://imgur.com/tAZotn3.png",
+        "description": "Built service management system with Admin, Engineer, and Customer roles. Admin schedules appointments assigns engineer, and tracks engineer location. The customer views the appointment status. Product warranty tracked for servicing.",
+        "tags": ["Laravel"],
+        "source_code": "",
+        "demo": ""
+    },
+    {
+        "id": 3,
+        "name": "Labid Hospital",
+        "image": "",
+        "description": "I have got an opportunity to add some new features to this site. These features are not available on the main website. We are just adding new features from the Aamra Infotainment Ltd. development site.",
+        "tags": ["Laravel", "node", "mongodb", "redux", "razorpay", "material-ui"],
+        "source_code": "",
+        "demo": "https://labaid.com.bd/"
+    },
+    {
+        "id": 4,
+        "name": "Decormakers",
+        "image": "",
+        "description": "This is an e-commerce website for furniture items. I have kept all features like login, registration, add to cart, increment and decrement cart items, displaying total cart items and amount, and checkout page. Through this project, I have learnt a lot of things like proper knowledge of redux-toolkit, react-router, authentication and many more.",
+        "tags": ["React", "Redux-Toolkit"],
+        "source_code": "https://github.com/itsnitinr/vscode-portfolio",
+        "demo": "http://vscode-portfolio.vercel.app/"
+    },
+    {
+        "id": 5,
+        "name": "Simple Banking System",
+        "image": "",
+        "description": "This is an e-commerce website for furniture items. I have kept all features like login, registration, add to cart, increment and decrement cart items, displaying total cart items and amount, and checkout page. Through this project, I have learnt a lot of things like proper knowledge of redux-toolkit, react-router, authentication and many more.",
+        "tags": ["React", "Redux-Toolkit"],
+        "source_code": "https://github.com/junaid50905/decoreMakers",
+        "demo": "https://youtu.be/axR_04juFN4?si=kHEYZy6xgsSsAvok"
+    }
+]
