@@ -3,13 +3,10 @@ import Illustration from '../components/Illustration';
 import styles from '../styles/HomePage.module.css';
 import techStackIcons from '../pages/api/tech_stacks.json';
 
-
-// icons
-import { FaHtml5 } from "react-icons/fa6";
-
 export default function HomePage() {
+    
   return (
-    <>
+    <>  
       <div className={styles.container}>
         <div className={styles.background}>
           <h1>I BUILD</h1>
@@ -19,7 +16,7 @@ export default function HomePage() {
           <div className={styles.content}>
             <h1 className={styles.name}>Junaid Hossain</h1>
             <h6 className={styles.bio}>Full Stack Web Developer</h6>
-            <div className="tech-icons" style={{ marginTop: "-40px !important", marginBottom: "30px !important"}}>
+            <div className="tech-icons" style={{ marginTop: "-40px", marginBottom: "20px" }}>
               <span>Tech Stack: </span>
               {techStackIcons.map((icon) => (
                 <a href="google.com" target="_blank" style={{ marginRight: "5px" }} title={icon.title}>
